@@ -1,0 +1,206 @@
+﻿Kodowanie znaków w dokumencie: UTF-8.
+-----
+Publikacja zrealizowana w ramach projektu Wolne Lektury (http://wolnelektury.pl/). Reprodukcja cyfrowa wykonana przez
+Bibliotekę Narodową z egzemplarza pochodzącego ze zbiorów BN. Ten utwór nie jest chroniony prawem autorskim i znajduje
+się w domenie publicznej, co oznacza, że możesz go swobodnie wykorzystywać, publikować i rozpowszechniać.
+
+Wersja lektury w opracowaniu merytorycznym i krytycznym (przypisy i motywy) dostępna jest na stronie http://wolnelektury.pl/katalog/lektura/romeo-i-julia.
+-----
+
+
+
+
+
+William Shakespeare
+
+ROMEO I JULIA
+
+
+
+
+OSOBY
+ * ESKALUS — książę panujący w Weronie
+ * PARYS — młody Weroneńczyk szlachetnego rodu, krewny księcia
+ * MONTEKI
+ * KAPULET
+ * STARZEC — stryjeczny brat Kapuleta
+ * ROMEO — syn Montekiego
+ * MERKUCJO — krewny księcia
+ * BENWOLIO — synowiec Montekiego
+ * TYBALT — krewny Pani Kapulet
+ * LAURENTY — ojciec franciszkanin
+ * JAN — brat z tegoż zgromadzenia
+ * BALTAZAR — służący Romea
+ * SAMSON
+ * GRZEGORZ
+ * ABRAHAM — służący Montekiego
+ * APTEKARZ
+ * TRZECH MUZYKANTÓW
+ * PAŹ PARYSA
+ * PIOTR
+ * DOWÓDCA WARTY
+ * PANI MONTEKI — małżonka Montekiego
+ * PANI KAPULET — małżonka Kapuleta
+ * JULIA — córka Kapuletów
+ * MARTA — mamka Julii
+ * Obywatele weroneńscy, różne osoby płci obojej, liczący się do przyjaciół obu domów, maski, straż wojskowa i inne osoby.
+
+
+
+
+Rzecz odbywa się przez większą część sztuki w Weronie, przez część piątego aktu w Mantui.
+
+
+
+PROLOG
+
+Przełożył Jan Kasprowicz
+
+Dwa rody, zacne jednako i sławne —
+Tam, gdzie się rzecz ta rozgrywa, w Weronie,
+Do nowej zbrodni pchają złości dawne,
+Plamiąc szlachetną krwią szlachetne dłonie
+
+Z łon tych dwu wrogów wzięło bowiem życie,
+Pod najstraszliwszą z gwiazd, kochanków dwoje;
+Po pełnym przygód nieszczęśliwych bycie
+Śmierć ich stłumiła rodzicielskie boje.
+
+Tej ich miłości przebieg zbyt bolesny
+I jak się ojców nienawiść nie zmienia,
+Aż ją zakończy dzieci zgon przedwczesny,
+Dwugodzinnego treścią przedstawienia,
+
+Które otoczcie cierpliwymi względy,
+Jest w nim co złego, my usuniem błędy…
+
+
+
+
+AKT PIERWSZY
+
+
+
+SCENA PIERWSZA
+    
+/ Plac publiczny. Wchodzą Samson i Grzegorz uzbrojeni w tarcze i miecze. /
+
+
+SAMSON
+
+Dalipan, Grzegorzu, nie będziem darli pierza.
+
+
+GRZEGORZ
+
+Ma się rozumieć, bobyśmy byli zdziercami.
+
+
+SAMSON
+
+Ale będziemy darli koty, jak z nami zadrą.
+
+
+GRZEGORZ
+
+Kto zechce zadrzeć z nami, będzie musiał zadrżeć.
+
+
+SAMSON
+
+Mam zwyczaj drapać zaraz, jak mię kto rozrucha.
+
+
+GRZEGORZ
+
+Tak, ale nie zaraz zwykłeś się dać rozruchać.
+
+
+SAMSON
+
+Te psy z domu Montekich rozruchać mię mogą bardzo łatwo.
+
+
+GRZEGORZ
+
+Rozruchać się tyle znaczy co ruszyć się z miejsca; być walecznym jest to stać nieporuszenie: pojmuję więc, że skutkiem rozruchania się twego będzie - drapnięcie.
+
+
+SAMSON
+
+Te psy z domu Montekich rozruchać mię mogą tylko do stania na miejscu. Będę jak mur dla każdego mężczyzny i każdej kobiety z tego domu.
+
+
+GRZEGORZ
+
+To właśnie pokazuje twoją słabą stronę; mur dla nikogo niestraszny i tylko słabi go się trzymają.
+
+
+SAMSON
+
+Prawda, dlatego to kobiety, jako najsłabsze, tulą się zawsze do muru. Ja też odtrącę od muru ludzi Montekich, a kobiety Montekich przyprę do muru.
+
+
+GRZEGORZ
+
+Spór jest tylko między naszymi panami i między nami, ich ludźmi.
+
+
+SAMSON
+
+Mniejsza mi o to, będę nieubłagany. Pobiwszy ludzi, wywrę wściekłość na kobietach: rzeź między nimi sprawię.
+
+
+GRZEGORZ
+
+Rzeź kobiet chcesz przedsiębrać?
+
+
+SAMSON
+
+Nie inaczej: wtłoczę miecz w każdą po kolei. Wiadomo, że się do lwów liczę.
+
+
+GRZEGORZ
+
+Tym lepiej, że się liczysz do zwierząt; bo gdybyś się liczył do ryb, to byłbyś pewnie sztokfiszem. Weź no się za instrument, bo oto nadchodzi dwóch domowników Montekiego.
+    
+/ Wchodzą Abraham i Baltazar. /
+
+
+SAMSON
+
+Mój giwer już dobyty: zaczep ich, ja stanę z tyłu.
+
+
+GRZEGORZ
+
+Gwoli drapania?
+
+
+SAMSON
+
+Nie bój się.
+
+
+GRZEGORZ
+
+Ja bym się miał bać z twojej przyczyny!
+
+
+SAMSON
+
+Miejmy prawo za sobą, niech oni zaczną.
+
+
+GRZEGORZ
+
+Marsa im nastawię przechodząc; niech go sobie, jak chcą, tłumaczą.
+
+
+SAMSON
+
+Nie jak chcą, ale jak śmią. Ja im gębę wykrzywię; hańba im, jeśli to ścierpią.
+
+
+ABRAH

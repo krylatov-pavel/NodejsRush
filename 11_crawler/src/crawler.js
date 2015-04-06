@@ -5,15 +5,15 @@ var async = require("async");
 var request = require("request");
 
 function crawl(url, callback) {
-    async.waterfal([
+    async.waterfall([
             function getHtml(cb) {
                 request.get(url, cb);
             },
             function parseHtml(status, body, cb) {
                 var links = [];
                 var $ = cheerio.load(body);
-                $("a").each(function (link) {
-                    var href = link.href.toLowerCase();
+                $("a").each(function (i, link) {
+                    var href = link.attribs.href.toLowerCase();
                     if (links.indexOf(href)) {
                         links.push(href);
                     }

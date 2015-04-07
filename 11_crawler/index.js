@@ -3,7 +3,7 @@ var crawler = require("./src/crawler.js");
 var async = require("async");
 
 if(!argv.url || !argv.level){
-    console.log("Url argument is missing");
+    console.log("arguments are missing");
     return false;
 }
 
@@ -25,7 +25,7 @@ function(err, res) {
         console.log(err);
         return false;
     }
-    res.each(function (href) {
+    res.forEach(function (href) {
         console.log(href);
     })
 });

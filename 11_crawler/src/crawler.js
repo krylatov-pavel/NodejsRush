@@ -3,6 +3,7 @@
 var cheerio = require("cheerio");
 var async = require("async");
 var request = require("request");
+var urlModule = require('url');
 
 function crawl(urls, callback){
     var links = [];
@@ -29,15 +30,26 @@ function readLinks(url, callback) {
                 var links = [];
                 var $ = cheerio.load(body);
                 $("a").each(function (i, link) {
-                    var href = link.attribs.href;
-                    if (links.indexOf(href)) {
-                        links.push(href);
+                    if (link.attribs.href) {
+                        var href = normalizeLink(url, link.attribs.href);
+                        if (links.indexOf(href)) {
+                            links.push(href);
+                        }
                     }
                 });
                 cb(null, links);
             }
         ], callback
     );
+}
+
+function normalizeLink(base, url){
+    var isAbsolute = /^https?:\/\//i;
+    if (!isAbsolute.test(url))
+    {
+        url = urlModule.resolve(base, url);
+    }
+    return url;
 }
 
 module.exports = {
